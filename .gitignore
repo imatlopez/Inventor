@@ -1,0 +1,6 @@
+
+*.stp
+
+OldVersions/*
+
+*.lnk
